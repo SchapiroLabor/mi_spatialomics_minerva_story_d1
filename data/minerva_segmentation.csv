@@ -1,0 +1,21 @@
+channel,type,frequency
+meanIOU,Mesmer nuclear,0.6906952439618392
+meanIOU,Mesmer wholecell,0.699774570885803
+meanIOU,Cellpose cyto,0.8079823262168492
+meanIOU,Cellpose custom,0.8249629874673045
+meanDice,Mesmer nuclear,0.8131204390959728
+meanDice,Mesmer wholecell,0.8171516909467494
+meanDice,Cellpose cyto,0.8889741347256863
+meanDice,Cellpose custom,0.900235532295738
+Precision,Mesmer nuclear,0.4953519256308101
+Precision,Mesmer wholecell,0.5961182994454713
+Precision,Cellpose cyto,0.7608391608391608
+Precision,Cellpose custom,0.9118589743589745
+Recall,Mesmer nuclear,0.3087748344370861
+Recall,Mesmer wholecell,0.5339403973509934
+Recall,Cellpose cyto,0.4503311258278146
+Recall,Cellpose custom,0.9420529801324504
+F1,Mesmer nuclear,0.3804181540030596
+F1,Mesmer wholecell,0.5633187772925764
+F1,Cellpose cyto,0.5657826313052522
+F1,Cellpose custom,0.9267100977198696
