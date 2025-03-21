@@ -1,4 +1,4 @@
-channel,type,frequency
+Metric,Method,Value
 meanIOU,Mesmer nuclear,0.6906952439618392
 meanIOU,Mesmer wholecell,0.699774570885803
 meanIOU,Cellpose cyto,0.8079823262168492
